@@ -1,0 +1,54 @@
+Software testing: completeness,correctness,quality
+QA,tester,QC
+
+App:
+1.Mobile
+2.website
+3.desktop
+
+test scenerio(p,n)
+hlr
+test case(pass,fail)
+defect report 
+
+oops 
+sql
+
+tools:
+BTT
+jira
+bugzilla
+
+performance testing
+hp load runner
+jmeter
+
+
+core java 
+Selenium 2 : web automation 
+1.selenium IDE(r->r)
+2.seleniumRC
+3.webdriver
+4.grid:poi
+data driven
+keyword 
+hybird
+
+framework: 
+junit
+testng
+
+maven
+
+git
+
+
+appium : mobile automation
+testng
+maven
+
+api testing
+ back end testing
+postman
+
+topsst301
